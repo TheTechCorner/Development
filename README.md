@@ -1,3 +1,5 @@
 # Development
 
-Repo for best practices in programming and development
+Repo for information about programming, development and testing
+
+[WSL Setup guide](./WSL_Setup.md)
